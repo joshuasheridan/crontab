@@ -1,0 +1,4 @@
+Crontab runs a BASH command every fixed interval.
+To edit crontab properties, go into root user and type "crontab -e"
+
+Then, type "*/5 * * * * [command]" where "5" represents the interval in minutes that you want that code to run.
